@@ -1,0 +1,7 @@
+to create braches we to type the command 
+git branch 
+git branch feature_demo
+git branch 
+git checkout feature_demo
+git push -u origin feature demo
+go back to the git web and refresh it
